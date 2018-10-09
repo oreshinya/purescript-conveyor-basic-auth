@@ -1,0 +1,32 @@
+{
+  "name": "purescript-conveyor-basic-auth",
+  "license": "MIT",
+  "homepage": "https://github.com/oreshinya/purescript-conveyor-basic-auth",
+  "authors": [
+    "Shinya Takahashi <s.takahashi313@gmail.com>"
+  ],
+  "description": "Basic authentication for conveyor",
+  "keywords": [
+    "purescript",
+    "node",
+    "conveyor",
+    "basic-auth"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oreshinya/purescript-conveyor-basic-auth.git"
+  },
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-conveyor": "^2.1.0",
+    "purescript-basic-auth": "^1.0.0"
+  }
+}
