@@ -1,19 +1,3 @@
-# purescript-conveyor-basic-auth
+# DEPRECATED
 
-[![Latest release](http://img.shields.io/github/release/oreshinya/purescript-conveyor-basic-auth.svg)](https://github.com/oreshinya/purescript-conveyor-basic-auth/releases)
-
-Basic authentication for [conveyor](https://github.com/oreshinya/purescript-conveyor).
-
-## Installation
-
-```
-bower install purescript-conveyor-basic-auth
-```
-
-## Documentation
-
-Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-conveyor-basic-auth).
-
-## LICENSE
-
-MIT
+Move to https://github.com/Bucketchain/purescript-bucketchain-basic-auth.
